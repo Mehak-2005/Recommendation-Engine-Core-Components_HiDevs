@@ -87,7 +87,7 @@ Measures recommendation quality using:
 1. Open terminal in project folder:
 
 ```
-cd day29_project
+cd Recommendation-Engine-code
 ```
 
 2. Run the test script:
@@ -107,6 +107,7 @@ Candidates: ['i3', 'i4']
 Ranked: [('i3', ...), ('i4', ...)]
 Metrics: {'precision': 1.0, 'recall': 1.0, 'ndcg': 1.0}
 ```
+## Youtube link
 
 ---
 
