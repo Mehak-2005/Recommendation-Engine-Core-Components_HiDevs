@@ -108,7 +108,7 @@ Ranked: [('i3', ...), ('i4', ...)]
 Metrics: {'precision': 1.0, 'recall': 1.0, 'ndcg': 1.0}
 ```
 ## Youtube link
-
+https://youtu.be/hu34rVhPtN4
 ---
 
 ## 🧠 Key Concepts Used
